@@ -5,7 +5,7 @@ El sistema guarda los registros en un archivo `ventasdiarias.txt` y permite aña
 
 ## Características
 
-- Interfaz gráfica en **modo oscuro** con estilo personalizado.
+- Interfaz gráfica en **modo blanco** con estilo personalizado.
 - Registro de ventas con fecha, hora y cantidad.
 - Visualización de ventas en gráficas:
   - **Por día** (horas del día seleccionado).
